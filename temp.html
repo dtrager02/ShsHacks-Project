@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Workout Creator</title>
+
+    <script src="jquery-3.4.1.min.js"></script>
+  </head>
+  <body>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <div class="title">
+      <h1>Workout Creator</h1>
+      
+    </div>
+    <div class = "type wide">
+      <div class = "text">
+        <P>Type</P>
+      </div>
+      <div class="options" id="type">
+      <button type="button" class="btn btn-outline-primary xlarge ">Muscle</button>
+      <button type="button" class="btn btn-outline-primary xlarge">Cardio</button>
+      
+    </div>
+    </div>
+    <div class = "age wide">
+      <div class = "text">
+        <P>Age</P>
+      </div>
+      <div class="options" id="age">
+      <button type="button" class="btn btn-outline-primary large">5-13</button>
+      <button type="button" class="btn btn-outline-primary large">14-64</button>
+      <button type="button" class="btn btn-outline-primary large">65+</button>
+      
+    </div>
+    </div>
+
+    <div class="Muscle group wide">
+      <div class = "text">
+        <P>Muscle Group</P>
+      </div>
+      <div class="options" id="muscle">
+    <button type="button" class="btn btn-outline-primary small">Chest</button>
+      <button type="button" class="btn btn-outline-primary small">Back</button>
+      <button type="button" class="btn btn-outline-primary small">Abs</button>
+      <button type="button" class="btn btn-outline-primary small">Triceps</button>
+      <button type="button" class="btn btn-outline-primary small">Shoulders</button>
+      <button type="button" class="btn btn-outline-primary small">Biceps</button>
+      <button type="button" class="btn btn-outline-primary small">Quads</button>
+      <button type="button" class="btn btn-outline-primary small">Hamstrings</button>
+      <button type="button" class="btn btn-outline-primary small">Glutes</button>
+      <button type="button" class="btn btn-outline-primary small">Calves</button>
+    </div>
+  </div>
+    <div class ="Equipment wide">
+      <div class = "text">
+        <P>Equipment</P>
+      </div>
+      <div class="options" id="equipment">
+      <button type="button" class="btn btn-outline-primary large">None</button>
+      <button type="button" class="btn btn-outline-primary large">Home</button>
+      <button type="button" class="btn btn-outline-primary large">Gym</button>
+      
+    </div>
+    </div> 
+    <div class = 'wide'>
+      <div class = "text2">
+        <p id="counter-number" style="color:gray">0</p>
+      <p id = "counter">matches</p></div>
+      <button type="button" class="btn btn-primary submit">SUBMIT</button>
+    </div>
+    <div class = 'wide' id='table'>
+      <ul class="list-group list-group-horizontal" id="headers">
+        <li class="list-group-item">Workout</li>
+        <li class="list-group-item">Duration</li>
+        <li class="list-group-item">Link</li>
+      </ul>
+    </div>
+
+    <script src="code - Copy.js"></script>
+  </body>
+</html>

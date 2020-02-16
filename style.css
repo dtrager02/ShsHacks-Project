@@ -1,0 +1,101 @@
+/**********************************************
+*** GENERAL
+**********************************************/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.title{
+    text-align: center;
+    margin-left: 10%;
+    width: 80%;
+}
+.wide{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    margin-left: 10%;
+    margin-bottom: 2%;
+}
+
+.xlarge{
+    margin-top: auto;
+    margin-bottom: auto;
+    display: inline;
+    width: 35%;
+    height: auto;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.large{
+    margin-top: auto;
+    margin-bottom: auto;
+    display: inline;
+    width: 22%;
+    height: auto;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.small{
+    display: inline;
+    width: 14%;
+    height: 35%;
+    margin-top: 10px;
+    margin-bottom: 10px; 
+}
+.options{
+    width: 70%;
+    display: inline;
+    text-align: center;
+}
+.text{
+
+    display: inline;
+    width: 15%;
+    font-size: 40px;
+    align-items: center;
+    height: 100%;
+}
+.text2{
+
+    display: inline;
+    width: 15%;
+    font-size: 30px;
+    align-items: center;
+    height: 100%;
+}
+p{
+    width: 100%;
+    align-self: center;
+}
+.submit{
+    width: 60%;
+    font-size: 25px;
+    align-self: center;
+    margin-left: 10%;
+}
+
+#counter{
+    width: 4%;
+    display: inline;
+}
+#counter-number{
+    width: 2%;
+    display: inline;
+}
+#table{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+li{
+    width: 25vw;
+}
+
+#headers li{
+    background-color: #e7e6e6;
+    width: 25vw;
+}
