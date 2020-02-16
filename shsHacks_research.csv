@@ -1,0 +1,109 @@
+Workout,Age,Duration,Muscle Groups,Type,Equipment
+Jumping Jacks,5-64,100 total,legs;calves,cardio,none
+Mountain Climber,5-64,30 seconds to 2 minutes,legs;abs,cardio,none
+Bike Riding,5-64,variable,legs,cardio,home
+Skateboarding,5-99,variable,legs,cardio,home
+Crunches,5-64,5 sets of 30,abs,muscle,none
+Squats,5-99,3 sets of 15,calves;quads,muscle,none
+Leg Press,14-64,3 sets of 15,quads;glutes,muscle,gym
+Lunge,5-99,3 sets of 12,glutes;calves,muscle,none
+Deadlift,14-64,3 sets of 8,back,muscle,gym
+Leg Extention,5-64,4 sets of 8,calves,muscle,none
+Leg Curl,5-64,5 sets of 13,calves;hamstrings,muscle,none
+Standing Calf Raise,0-99,6 sets of 8,calves,muscle,none
+Bench Press,14-64,7 sets of 8,chest;biceps,muscle,gym
+Chest Fly,0-99,8 sets of 8,chest,muscle,gym
+Push-Ups,5-99,3 sets of 15,abs,muscle,none
+Pull-Down,0-99,3 sets of 10,back,muscle,gym
+Pullups,0-99,3 sets of 10,biceps;abs,muscle,gym
+Shoulder Press,0-99,3 sets of 10,shoulders,muscle,home
+Shoulder Fly,0-99,3 sets of 10,shoulders,muscle,gym
+Jump Rope,0-99,5 minutes,legs,cardio,home
+Burpees,0-99,10 reps,legs,muscle,none
+Jogging,0-99,10 minutes,calves;quads;legs,cardio,none
+Plank,0-99,3 sets of 30 seconds,abs,muscle,none
+Lateral Raise,0-99,4 sets of 12 reps,shoulders,muscle,home
+Dips,0-99,4 sets of 12 reps,triceps,muscle,chair
+Tricep Overhead Extention,0-99,4 sets of 12 reps,triceps,muscle,home
+Bicep Curl,0-99,4 sets of 12 reps,biceps,muscle,home
+Russian Twist,0-99,4 sets of 12 reps,abs,muscle,none
+Leg Raise,0-99,4 sets of 12 reps,legs,muscle,none
+Back Extention,0-99,4 sets of 12 reps,hamstrings;glutes,muscle,gym
+Dumbbell Bench Press,14-65,4 sets of 10 reps,chest,muscle,gym
+Incline Dumbbell Bench Press,14-65,4 sets of 10 reps,chest;shoulders,muscle,gym
+Decline Barbell Bench Press,14-65,4 sets of 10 reps,chest,muscle,gym
+Flat Chest Press Machine,14-65,4 sets of 10 reps,chest,muscle,gym
+Incline Dumbbell Bench Press,14-65,4 sets of 10 reps,chest;shoulders,muscle,gym
+Decline Barbell Bench Press,14-65,4 sets of 10 reps,chest,muscle,gym
+Decline Chest Press Machine,14-65,4 sets of 10 reps,chest,muscle,gym
+Flat Dumbbell Flyes,14-65,4 sets of 10 reps,chest,muscle,gym
+Incline Dumbbell Flyes,14-65,4 sets of 10 reps,chest,muscle,gym
+Decline Dumbbell Flyes,14-65,4 sets of 10 reps,chest,muscle,gym
+Pec Deck Machine,14-65,4 sets of 10 reps,chest,muscle,gym
+Cable Crossovers/Cable Flyes,14-65,4 sets of 10 reps,chest,muscle,gym
+Seated Shoulder Press,65-99,2-3 sets of 8-12 reps for 4 minutes,shoulders,muscle,home
+Seated Front Shoulder Raises,65-99,2-3 sets of 8-12 reps,shoulders,muscle,home
+Seated Chest Press,65-99,2-3 sets of 8-12 reps,chest,muscle,gym
+Modified Push-Ups,65-99,2-3 sets of 8-12 reps,chest,muscle,"none
+"
+Seated Bicep Curls,65-99,2-3 sets of 8-12 reps,biceps,muscle,home
+Isolated Tricep Extensions,65-99,2-3 sets of 8-12 reps,triceps,muscle,home
+Seated Knee-to-Chest,65-99,2-3 sets of 8-12 reps,abs,muscle,home
+Extended Leg Raises,65-99,2-3 sets of 8-12 reps,abs,muscle,home
+Leg Kicks,65-99,2-3 sets of 8-12 reps,abs,muscle,none
+Modified Planks,65-99,2-3 sets of 30 seconds,abs,muscle,"none
+"
+Tummy Twists,65-99,2-3 sets of 8-10 reps,abs,muscle,home
+Chair Squat,65-99,2-3 sets of 8-12 reps,legs,muscle,none
+Modified Squats,65-99,2-3 sets of 8-12 reps,legs,muscle,none
+Knee Extensions,65-99,2-3 sets of 8-12 reps,legs,muscle,none
+Heel Slides,65-99,2-3 sets of 8-12 reps,legs,muscle,none
+Seated Calf Raises,65-99,3 sets of 20-30 reps,legs,muscle,home
+Bent Over Barbell Rows,14-65,3 sets of 10-12 reps,back,muscle,gym
+T-Bar Rows,14-65,3 sets of 10-12 reps,back,muscle,gym
+Seated Cable Rows,14-65,3 sets of 10-12 reps,back,muscle,gym
+Inverted Rows,14-65,3 sets of 10-12 reps,back;biceps,muscle,gym
+Dumbbell Rows,14-65,3 sets of 10-12 reps,back,muscle,"home
+"
+Chin-ups,14-65,3 sets of 10-12 reps,back;biceps,muscle,gym
+Tiptoe Walk,5-65,3 sets of 10-12 reps,calves,muscle,"none
+"
+Jumping Calf Raise,5-65,3 sets of 10-12 reps,calves,muscle,"none
+"
+Single-Leg Calf Raise,5-65,3 sets of 10-12 reps,calves,muscle,"none
+"
+Hole Calf Raise,5-65,3 sets of 10-12 reps,calves,muscle,"none
+"
+Agility Ladder,5-65,3 sets of 10-12 reps,calves,muscle,home
+Bosu Ball Squat,5-65,3 sets of 10-12 reps,calves,muscle,home
+Romanian Deadlifts,14-65,3 sets of 10-12 reps,hamstrings;back,muscle,gym
+Straight Leg Deadlifts,14-65,3 sets of 10-12 reps,hamstrings;back,muscle,gym
+Box Jumps,14-65,3 sets of 10-12 reps,glutes;calves;legs,cardio,home
+Plank Ski Hops,14-65,3 sets of 10-12 reps,legs,cardio,none
+Lunge Jumps,14-65,3 sets of 10-12 reps,calves;glutes;legs,cardio,none
+Inchworm Crawl,14-65,3 sets of 10-12 reps,abs,cardio,none
+Plank Jacks,14-65,2-3 sets of 20-30 reps,legs;calves,cardio,none
+Step up,65-99,3 sets of 10-12 reps,legs,cardio,home
+Hammer curl,14-65,3 sets of 10-12 reps,biceps,muscle,home
+Sprints,14-65,2 rounds of 200 yards,legs,"cardio
+",none
+Good morning,14-65,3 sets of 10-12 reps,back,muscle,home
+Supermans,14-65,3 sets of 10-12 reps,back,muscle,none
+Kettlebell Swing,14-65,3 sets of 10-12 reps,shoulders,muscle,home
+Kettleball Squat,14-65,3 sets of 10-12 reps,legs,muscle,home
+Swimming,14-65,"2 rounds of 200 yards
+",shoulders;back;triceps;legs,cardio,gym
+Handstand pushup,14-65,3 sets of 10-12 reps,shoulders;triceps,muscle,home
+Starfish,14-65,3 sets of 10-12 reps,"abs
+",muscle,none
+V-sit,14-65,2 rounds of 30 seconds,"abs
+",muscle,none
+Tricep Cable pulldown,14-65,3 sets of 10-12 reps,triceps,muscle,gym
+Overhead cable tricep extension,14-65,3 sets of 10-12 reps,triceps,muscle,gym
+Straight-arm pulldown,14-65,3 sets of 10-12 reps,back,muscle,gym
+"Bent over tricep extension
+",14-65,3 sets of 10-12 reps,triceps,muscle,home
+Wide-grip pullup,14-66,3 sets of 10-12 reps,back,muscle,gym
+Close-grip bench press,14-67,3 sets of 10-12 reps,triceps;shoulders,muscle,gym
+Knee plank,"65-99
+",2-3 sets of 30 seconds,abs,muscle,none
